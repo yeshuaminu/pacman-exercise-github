@@ -1,9 +1,9 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
-
+# PacMan Exercise
+Factory for PacMen! Create as many PacMen as you please with the "Add PacMan" button. Press "Start Game" to have the PacMen you created interact with the walls of the webpage around them. Watch them bounce and chomp away, sometimes into each other!
+## How to Run
+https://yeshuaminu.github.io/pacman-exercise-github/
+## Roadmap of future improvements
+Next steps for future rollouts include "pellets" for the PacMen to "eat up". Whichever PacMan eats up all the "pellets" wins the game!
+## License
+This project is licensed under the MIT license. Please refer to the [LICENSE](LICENSE) file.
 <img src="PacMan1.png">
